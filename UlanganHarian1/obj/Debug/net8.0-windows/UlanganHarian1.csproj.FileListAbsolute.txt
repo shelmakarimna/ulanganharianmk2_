@@ -1,0 +1,17 @@
+D:\XI_PPLG_2\MK2\UlanganHarian1\bin\Debug\net8.0-windows\UlanganHarian1.exe
+D:\XI_PPLG_2\MK2\UlanganHarian1\bin\Debug\net8.0-windows\UlanganHarian1.deps.json
+D:\XI_PPLG_2\MK2\UlanganHarian1\bin\Debug\net8.0-windows\UlanganHarian1.runtimeconfig.json
+D:\XI_PPLG_2\MK2\UlanganHarian1\bin\Debug\net8.0-windows\UlanganHarian1.dll
+D:\XI_PPLG_2\MK2\UlanganHarian1\bin\Debug\net8.0-windows\UlanganHarian1.pdb
+D:\XI_PPLG_2\MK2\UlanganHarian1\obj\Debug\net8.0-windows\UlanganHarian1.Form1.resources
+D:\XI_PPLG_2\MK2\UlanganHarian1\obj\Debug\net8.0-windows\UlanganHarian1.csproj.GenerateResource.cache
+D:\XI_PPLG_2\MK2\UlanganHarian1\obj\Debug\net8.0-windows\UlanganHarian1.GeneratedMSBuildEditorConfig.editorconfig
+D:\XI_PPLG_2\MK2\UlanganHarian1\obj\Debug\net8.0-windows\UlanganHarian1.AssemblyInfoInputs.cache
+D:\XI_PPLG_2\MK2\UlanganHarian1\obj\Debug\net8.0-windows\UlanganHarian1.AssemblyInfo.cs
+D:\XI_PPLG_2\MK2\UlanganHarian1\obj\Debug\net8.0-windows\UlanganHarian1.csproj.CoreCompileInputs.cache
+D:\XI_PPLG_2\MK2\UlanganHarian1\obj\Debug\net8.0-windows\UlanganHarian1.dll
+D:\XI_PPLG_2\MK2\UlanganHarian1\obj\Debug\net8.0-windows\refint\UlanganHarian1.dll
+D:\XI_PPLG_2\MK2\UlanganHarian1\obj\Debug\net8.0-windows\UlanganHarian1.pdb
+D:\XI_PPLG_2\MK2\UlanganHarian1\obj\Debug\net8.0-windows\UlanganHarian1.genruntimeconfig.cache
+D:\XI_PPLG_2\MK2\UlanganHarian1\obj\Debug\net8.0-windows\ref\UlanganHarian1.dll
+D:\XI_PPLG_2\MK2\UlanganHarian1\obj\Debug\net8.0-windows\UlanganHarian1.Form2.resources
